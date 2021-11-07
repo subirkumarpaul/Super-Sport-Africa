@@ -1,6 +1,12 @@
 #EXTM3U
+#EXTINF:-1,T Sports
+http://212.102.60.40:2200/R-EX/T_SPORTS_HD-in/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Star Sports 1 HD
 http://212.102.60.40:2200/EX/starsports1hd-in/index.m3u8
+#EXTINF:-1,Star Sports 1 HD Hindi
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_1_HINDI_HD-in/tracks-v1a1/mono.m3u8?token=RK
+#EXTINF:-1,Star Sports 1 HD Tamil
+http://212.102.60.40:2200/R-EX/SPORTS_STAR_SPORTS_TAMIL-in/tracks-v1a1/mono.m3u8?token=rk
 #EXTINF:-1,Super Sports SSC
 http://212.224.98.209:2200/AFR-EX/SuperSport_Cricket_AZ_FHD-dstv/tracks-v1a1/mono.m3u8?token=rk
 #EXTINF:-1,Channel SSG
@@ -19,6 +25,8 @@ http://212.224.98.209:2200/AFR-EX/SuperSport_Action_FHD-dstv/tracks-v1a1/mono.m3
 http://212.224.98.209:2200/AFR-EX/SuperSport_Football_FHD-dstv/tracks-v1a1/mono.m3u8?token=rk
 #EXTINF:-1,Channel A Sports
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+#EXTINF:-1,Channel Willow Cricket HD
+http://212.102.60.40:2200/R-EX/WILLOW_CRICKET_HD-in/tracks-v1a1/mono.m3u8?token=rk
 #EXTINF:-1,Channel Colors HD
 http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
 #EXTINF:-1,Channel Star Plus HD
