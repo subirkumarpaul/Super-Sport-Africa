@@ -19,3 +19,5 @@ http://212.224.98.209:2200/AFR-EX/SuperSport_Action_FHD-dstv/tracks-v1a1/mono.m3
 http://212.224.98.209:2200/AFR-EX/SuperSport_Football_FHD-dstv/tracks-v1a1/mono.m3u8?token=rk
 #EXTINF:-1,Channel A Sports
 http://221.120.204.4/LOCKLE-A-SPORTS/index.m3u8
+#EXTINF:-1,Channel Colors HD
+http://221.120.204.4/colours-hd-LOCKLE/tracks-v1a1/mono.m3u8
